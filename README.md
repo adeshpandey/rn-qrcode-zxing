@@ -1,4 +1,6 @@
-# react-native-qr-code-scanner
+
+# rn-qrcode-zxing
+A QR code scanner in react native
 
 ## Getting started
 
